@@ -65,6 +65,7 @@ page and will be replaced with the product link after approval.
 - [Integrations](https://noktirnal42.github.io/AudioBloom/integrations/)
 - [Support](https://noktirnal42.github.io/AudioBloom/support/)
 - [Privacy Policy](https://noktirnal42.github.io/AudioBloom/privacy/)
+- [Third-Party Notices](https://noktirnal42.github.io/AudioBloom/third-party-notices/)
 - [Roadmap](https://noktirnal42.github.io/AudioBloom/roadmap/)
 - [Wiki](https://github.com/noktirnal42/AudioBloom/wiki)
 
@@ -83,3 +84,6 @@ AudioBloomAI is commercial closed-source software. This repository's public
 documents are provided for product support and informational use only.
 
 See [LICENSE](LICENSE).
+
+Third-party components such as projectM/libprojectM and Syphon remain under
+their own licenses. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

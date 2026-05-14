@@ -98,6 +98,7 @@ title: AudioBloom
   <a href="./integrations">Send visuals to a projector or Syphon</a>
   <a href="./support">Get support</a>
   <a href="./privacy">Read the privacy policy</a>
+  <a href="./third-party-notices">Third-party notices</a>
   <a href="https://github.com/noktirnal42/AudioBloom/wiki">Read the wiki</a>
 </section>
 

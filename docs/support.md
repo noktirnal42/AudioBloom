@@ -49,3 +49,10 @@ Please avoid posting private audio, screenshots, logs, credentials, or personal 
 AudioBloomAI's privacy policy is available here:
 
 [Privacy Policy]({{ '/privacy/' | relative_url }})
+
+## Third-Party Notices
+
+AudioBloomAI uses third-party components for visual rendering and VJ
+integration. Notices and license text are available here:
+
+[Third-Party Notices]({{ '/third-party-notices/' | relative_url }})
